@@ -70,34 +70,15 @@ print(me.say_hi())
 
 ---
 
-### 📊 **GitHub Stats**
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Itskillmaster&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00FF00&title_color=00FF00" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Itskillmaster&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
-</div>
-
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itskillmaster&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00" />
-  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=Itskillmaster&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10&bg_color=0D1117" />
-</div>
-
----
-
-### 🔥 **Pinned Repositories**
+### 📊 **GitHub Live Metrics**
 
 <p align="center">
-  <a href="https://github.com/Itskillmaster/spluspy">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Itskillmaster&repo=spluspy&theme=radical&bg_color=0D1117&hide_border=true&icon_color=00FF00&title_color=00FF00" />
-  </a>
-  <a href="https://github.com/Itskillmaster/Itskillmaster">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Itskillmaster&repo=Itskillmaster&theme=radical&bg_color=0D1117&hide_border=true&icon_color=00FF00&title_color=00FF00" />
-  </a>
+  <img src="https://img.shields.io/github/followers/Itskillmaster?label=Followers&style=for-the-badge&color=00FF00&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/github/repos/Itskillmaster?label=Public%20Repos&style=for-the-badge&color=0e75b6&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/Itskillmaster?label=Total%20Stars&style=for-the-badge&color=FF4500&logo=github&logoColor=white" />
 </p>
 
----
-
-### 📈 **Dynamic Activity Graph**
+<br>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Itskillmaster&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" alt="Activity Graph" />
