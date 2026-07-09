@@ -23,6 +23,7 @@ class BotArchitect:
     def say_hi(self):
         return "Hey! This is where weird bots and infinite automations are built!"
 
+
 me = BotArchitect()
 print(me.say_hi())
 ```
@@ -89,16 +90,18 @@ print(me.say_hi())
   <a href="https://github.com/Itskillmaster/spluspy">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Itskillmaster&repo=spluspy&theme=radical&bg_color=0D1117&hide_border=true&icon_color=00FF00&title_color=00FF00" />
   </a>
-  <a href="https://github.com/Itskillmaster/spluspy">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Itskillmaster&repo=spluspy&theme=radical&bg_color=0D1117&hide_border=true&icon_color=00FF00&title_color=00FF00" />
+  <a href="https://github.com/Itskillmaster/Itskillmaster">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Itskillmaster&repo=Itskillmaster&theme=radical&bg_color=0D1117&hide_border=true&icon_color=00FF00&title_color=00FF00" />
   </a>
 </p>
 
 ---
 
-### 🐍 **Snake Contributions**
+### 📈 **Dynamic Activity Graph**
 
-![Snake animation](https://raw.githubusercontent.com/Itskillmaster/Itskillmaster/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Itskillmaster&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 
@@ -108,7 +111,7 @@ print(me.say_hi())
   <a href="https://t.me/YOUR_TELEGRAM_ID">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:dramff1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="YOUR_RUBIKA_LINK">
