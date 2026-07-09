@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=70&lines=Itskillmaster;Ph0enix+Bots;Python+%26+Bot+Developer;Architect+of+Smart+Bots" alt="Typing SVG" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=Itskillmaster&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
@@ -126,3 +126,4 @@ print(me.say_hi())
   <br>
   <b>Itskillmaster | Ph0enix Bots</b>
 </div>
+](https://github.com/Itskillmaster)
