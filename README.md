@@ -68,7 +68,7 @@ print(me.say_hi())
 - 🔭 **Currently building** — multi-platform bot framework
 - 🌱 **Currently learning** — distributed systems & LLM agents
 - ⚡ **Fun fact** — I automate everything, even my coffee order
-- 🐍 **X years of Python** — writing bots that never sleep
+- 🐍 **3 years of Python** — writing bots that never sleep
 
     </td>
     <td width="50%">
